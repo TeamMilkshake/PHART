@@ -1,0 +1,24 @@
+{
+  "name": "TeamMilkshake",
+  "version": "1.0.0",
+  "description": "PhArt.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamMilkshake/PHART.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeamMilkshake/PHART/issues"
+  },
+  "homepage": "https://github.com/TeamMilkshake/PHART#readme",
+  "dependencies": {
+    "babel-loader": "^7.0.0",
+    "react": "^15.5.4"
+  }
+}

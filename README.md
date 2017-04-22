@@ -48,19 +48,19 @@ Overlay Map Object
 
 
 # Server
-* RDP intoo
+* RDP into
 * Windows 8
 * Apache
 
 # Link
-Click info while having highlited work of Art
-  point out links between this work andother collected works
+Click info while having highlighted work of Art
+  point out links between this work another collected works
 
 Pokemon style
   Display visually unclaimed points with greyed out or not filled in.
 
-
-Semi authroitative Server
+=
+Semi authoritative Server
 do local which buttons are available on the front end through connecting with the beacon.
 
 Ping server for actions of buttons to take effect and get additional info
@@ -71,3 +71,10 @@ Refresh Interval
   * Update position to Server
   * Update Display
   * Update buttons
+
+Split Screen
+  with focus/info
+
+
+
+  npm install --save, webpack, react, react-dom, react-router, redux, react-redux, babel-core, babel-loader, babel-preset-react, babel-preset-es2015
