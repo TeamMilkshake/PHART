@@ -4,6 +4,21 @@ Philadelphia Art Museum Experience
   - Phart Proudly
   - https://en.wikipedia.org/wiki/Fart_Proudly8
 
+### To download
+  * https://github.com/TeamMilkshake/PHART
+
+### General Commands
+https://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large01.png
+  * Check for local changes
+    * git status
+  * Select files to save
+    * git add filename
+    * git add . (this will add all files)
+  * Save files locally
+    * git commit -m"Note About Changes"
+  * Push saved files to online repository
+    * git push origin master
+
 
 System of floating bard/type interactive points for different points at each area. (snapchat filters, auto twitter feed).
 
@@ -30,7 +45,7 @@ Game object
 Beacon Object5
 Local Map Object
 Overlay Map Object
-`````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
 
 # Server
 * RDP intoo
@@ -56,4 +71,3 @@ Refresh Interval
   * Update position to Server
   * Update Display
   * Update buttons
-  
